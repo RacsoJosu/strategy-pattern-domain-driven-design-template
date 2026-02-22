@@ -1,0 +1,1 @@
+{"root":["./src/excel/aplication/excel-service.ts","./src/excel/domain/excel-strategy.ts","./src/excel/domain/row-builder.ts","./src/excel/domain/strategy-a.ts","./src/excel/domain/strategy-b.ts","./src/excel/helpers/schemas.ts","./src/excel/infraestructure/strategy-manager.ts","./src/excel/presentation/router.ts"],"version":"5.9.3"}
